@@ -2,7 +2,7 @@
 
 <p>At DARJYO (PTY) LTD, accessible from https://www.darjyo.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by DARJYO (PTY) LTD and how we use it.</p>
 
-<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us. Our Privacy Policy was created and can be found here<a href="https://www.gdprprivacynotice.com/live.php?token=7wJsqi5rcarIa4MdNvHsswrTuLmXTgSC">GDPR Privacy Policy for DARJYO (PTY) LTD</a></p>
+<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us. Our Privacy Policy was created and can be found here <a href="https://www.gdprprivacynotice.com/live.php?token=7wJsqi5rcarIa4MdNvHsswrTuLmXTgSC">GDPR Privacy Policy for DARJYO (PTY) LTD</a></p>
 
 <h2>General Data Protection Regulation (GDPR)</h2>
 <p>We are a Data Controller of your information.</p>
