@@ -9,7 +9,7 @@
 <p>For the purposes of this End-User License Agreement:</p>
 <ul>
 <li>
-<p><strong>Agreement</strong> means this End-User License Agreement that forms the entire agreement between You and the Company regarding the use of the Application. This Agreement has been created with the help of the <a href="https://www.freeprivacypolicy.com/free-eula-generator/" target="_blank">EULA Generator</a>.</p>
+<p><strong>Agreement</strong> means this End-User License Agreement that forms the entire agreement between You and the Company regarding the use of the Application. This Agreement has been created and found here <a href="https://www.freeprivacypolicy.com/live/527fbd47-89a3-4206-831a-23fbf8af1a85" target="_blank">EULA for content developed by DARJYO (PTY) LTD</a>.</p>
 </li>
 <li>
 <p><strong>Application</strong> means the software program provided by the Company downloaded by You to a Device, named content developed by DARJYO (PTY) LTD</p>
