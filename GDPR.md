@@ -51,6 +51,21 @@
         <p>Google</p>
         <p><a href="https://policies.google.com/technologies/ads">https://policies.google.com/technologies/ads</a></p>
     </li>
+    <li>
+        <p>IBM</p>
+    </li>
+    <li>
+        <p>Microsoft Partner Network</p>
+    </li>
+    <li>
+        <p>Intel Partner Alliance</p>
+    </li>
+    <li>
+        <p>Intel IoT Solutions</p>
+    </li>
+    <li>
+        <p>Amazon Partner Network</p>
+    </li>
 </ul>
 
 <h2>Privacy Policies</h2>
