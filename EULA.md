@@ -1,5 +1,5 @@
 <h1>End-User License Agreement (&quot;Agreement&quot;)</h1>
-<p>Created: May 27, 2019</p>
+<p>First created: May 27, 2019</p>
 <p>Last updated: March 24, 2021</p>
 <p>Please read this End-User License Agreement carefully before downloading or using content developed by DARJYO (PTY) LTD.</p>
 <h1>Interpretation and Definitions</h1>
