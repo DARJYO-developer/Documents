@@ -1,12 +1,12 @@
 # Anti-Slavery and Human Trafficking Statement
 
-DARJYO (the "Company") is committed to preventing and combatting slavery and human trafficking in all its forms. As a tech startup based in South Africa, we recognize the importance of upholding human rights and promoting ethical practices in our business operations and supply chains.
+DARJYO is committed to preventing and combatting slavery and human trafficking in all its forms. As a tech startup based in South Africa, we recognize the importance of upholding human rights and promoting ethical practices in our business operations and supply chains.
 
 ## Our Statement
 
 #### Zero Tolerance: 
-The Company has a zero-tolerance policy towards slavery, human trafficking, and forced labor. We will not knowingly engage in or support any activities that involve these practices, either within our organization or in our supply chains.
-<br>
+DARJYO has a zero-tolerance policy towards slavery, human trafficking, and forced labor. We will not knowingly engage in or support any activities that involve these practices, either within our organization or in our supply chains.
+
 #### Compliance with Laws: 
 We will comply with all applicable laws and regulations related to slavery and human trafficking, including the South African Prevention and Combating of Trafficking in Persons Act, 2013, and the International Labour Organization's (ILO) conventions and guidelines.
 
@@ -17,7 +17,7 @@ We will conduct due diligence on our suppliers to assess their compliance with a
 We will identify and assess the risks of slavery and human trafficking in our operations and supply chains, taking into account factors such as geography, industry, and labor practices.
 
 #### Employee Awareness and Training: 
-We will provide regular training and awareness programs for our employees to ensure they understand the risks of slavery and human trafficking, as well as their role in preventing and reporting any suspected cases.
+We will provide regular training and awareness programs to ensure understanding of the risks of slavery and human trafficking, as well as our role in preventing and reporting any suspected cases.
 
 #### Reporting and Remediation: 
 We will promptly investigate any allegations or suspicions of slavery or human trafficking and take appropriate actions, including reporting to the authorities and supporting victims. We will also work with our suppliers to address any identified deficiencies and implement remediation measures.
